@@ -1,2 +1,2 @@
 # Project-3_Portfolio-Website
-This Repository contain html ,css code of a portfolio website
+This is a responsive Portfolio website .This website is created using HTML, CSS and JAVASCRIPT .
