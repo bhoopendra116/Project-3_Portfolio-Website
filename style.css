@@ -469,6 +469,7 @@
   /* ----------------------------------------------------------------
       [ End Banner ]
   -----------------------------------------------------------------*/
+
   
   
   /* ----------------------------------------------------------------
@@ -840,7 +841,7 @@
   
   
   /* ----------------------------------------------------------------
-      [ 12 Start Blog ]
+      [ 12 Start Gallary ]
   -----------------------------------------------------------------*/
   .single_blog{
       margin-bottom: 30px;
@@ -943,7 +944,7 @@
       background: transparent;
       border-color: #e3e3e3;
       height: 40px;
-      border-radius: 0;
+      border-radius: 5;
       box-shadow: none;
   }
   .form .form-group input:focus{
@@ -957,11 +958,11 @@
       border-color: #e3e3e3;
       margin-top: 10px;
       padding-bottom: 5%;
-      border-radius: 0;
+      border-radius: 5;
       box-shadow: none;
   }
   .form .form-group textarea:focus{
-      border-color: #F95353;
+      border-color: #0be332;
   }
   .dark_bg .form .form-group textarea:focus{
       color: #fff;
@@ -1016,4 +1017,3 @@
   /* ----------------------------------------------------------------
       [ End Top-control ]
   -----------------------------------------------------------------*/
-  
