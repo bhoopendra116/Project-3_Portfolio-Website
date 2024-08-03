@@ -432,7 +432,7 @@ a:hover{
 	background-repeat: no-repeat;
 }
 .banner_bg{
-	background-image: url(../images/back3.jpg);
+	background-image: url(../images/a3.jpg);
 	background-size: cover;
 	background-position: center center;
 	position: relative;
@@ -565,7 +565,7 @@ a:hover{
     margin-bottom: 20px;
     align-items: center;
     height: 100vh;
-   
+  
     
 }
 
@@ -573,6 +573,8 @@ a:hover{
     max-width: 80%;
     max-height: 100%;
     height: auto;
+    border-radius: 50%;
+    object-fit: cover;
    
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
